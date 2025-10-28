@@ -1,12 +1,5 @@
 # IndentScript
 
-<div align="center">
-
-![Version](https://img.shields.io/badge/version-2.8.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Node](https://img.shields.io/badge/node-%3E%3D12.0.0-brightgreen.svg)
-![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)
-
 **A powerful JavaScript superset that combines Python's elegant syntax with JavaScript's ecosystem**
 
 [Features](#features) • [Installation](#installation) • [Quick Start](#quick-start) • [Documentation](#documentation) • [Examples](#examples) • [Contributing](#contributing)
