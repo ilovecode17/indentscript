@@ -2,10 +2,6 @@
 
 **A powerful JavaScript superset that combines Python's elegant syntax with JavaScript's ecosystem**
 
-[Features](#features) • [Installation](#installation) • [Quick Start](#quick-start) • [Documentation](#documentation) • [Examples](#examples) • [Contributing](#contributing)
-
-</div>
-
 ---
 
 ## 🚀 What is IndentScript?
@@ -20,8 +16,6 @@ IndentScript is a transpiler that allows you to write JavaScript using Python's 
 - **Bidirectional**: Mix Python and JavaScript syntax freely
 - **Production Ready**: Robust error handling and comprehensive feature set
 - **Universal**: Runs on Node.js, browsers, and anywhere JavaScript runs
-
----
 
 ## ✨ Features
 
@@ -152,8 +146,6 @@ for i in range(100):
     print(i)
 ```
 
----
-
 ## 📦 Installation
 
 ### Quick Install (Recommended)
@@ -181,8 +173,6 @@ sudo cp indentscript.js /usr/local/bin/indentscript
 
 - Node.js >= 12.0.0
 - No additional dependencies required
-
----
 
 ## 🎯 Quick Start
 
